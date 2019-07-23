@@ -1,4 +1,4 @@
-# Predictive Modeling Using Python
+# Predicting Possibility of Rainfall in Australia Using Machine Learning
 
 This project aims to train a model using machine learning techniques to help predict probability of rainfall on the next day using data collected from various weather stations in Australia.
 
